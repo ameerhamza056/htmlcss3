@@ -1,0 +1,21 @@
+.main {
+    border: 15px solid rgb(255, 255, 255);
+    width: 600px;
+    height: 300px;
+    background-color: #fff;
+}
+.x {
+    height: 100px;
+    width: 600px ;
+    background-color: #000000;
+}
+.y {
+    height: 100px;
+    width: 600px ;
+    background-color: #fdda26;
+}
+.z {
+    height: 100px;
+    width: 600px ;
+    background-color: #ef343e;
+}
